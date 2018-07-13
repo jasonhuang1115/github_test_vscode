@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 test1, modified 1, modified 2 in vscode
 modified 3 more changes in vscode
-=======
 test1, modified 1
 edited in vscode for firstbranch
->>>>>>> firstbranch
