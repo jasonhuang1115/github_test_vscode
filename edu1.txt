@@ -1,4 +1,3 @@
 original file
-edited locally 1
-edited locally 2
-remote edit 1
+
+edited locally in scaryBranch
